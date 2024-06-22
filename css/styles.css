@@ -18,6 +18,17 @@ body {
     /* Optional: Adds a slight shadow for better visibility */
 }
 
+.navbar-brand {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.navbar-brand img {
+    border-radius: 25%;
+}
+
 .main-content {
     position: relative;
     background: url("../assets/hero-image.webp") no-repeat center center fixed;
